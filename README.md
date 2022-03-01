@@ -3,7 +3,7 @@
 
 
 This is a  Windows From Application with C# that implment Wavelet Transform on color image. This project is developed in windows form manner and you can use it easily.
-You can run wavelet transform on images in every level that you would like.
+You can run wavelet transform on images in each level that you would like.
 - Windows From Application with C#
 - Wavelet Transform
 - showing the results on Form
